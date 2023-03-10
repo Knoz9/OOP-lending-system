@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.38">
+<file name="C:\Users\KenoZzZ\Desktop\school\a2\app\src\main\java\controller\App.java">
+</file>
+<file name="C:\Users\KenoZzZ\Desktop\school\a2\app\src\main\java\controller\Controller.java">
+</file>
+<file name="C:\Users\KenoZzZ\Desktop\school\a2\app\src\main\java\model\Contract.java">
+</file>
+<file name="C:\Users\KenoZzZ\Desktop\school\a2\app\src\main\java\model\ContractList.java">
+</file>
+<file name="C:\Users\KenoZzZ\Desktop\school\a2\app\src\main\java\model\Item.java">
+</file>
+<file name="C:\Users\KenoZzZ\Desktop\school\a2\app\src\main\java\model\Member.java">
+</file>
+<file name="C:\Users\KenoZzZ\Desktop\school\a2\app\src\main\java\model\MemberList.java">
+</file>
+<file name="C:\Users\KenoZzZ\Desktop\school\a2\app\src\main\java\model\Persistence.java">
+</file>
+<file name="C:\Users\KenoZzZ\Desktop\school\a2\app\src\main\java\view\View.java">
+</file>
+</checkstyle>

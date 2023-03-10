@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodeQualityTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-11-26T17:29:10" hostname="DESKTOP-E14P0G4" time="0.08">
+  <properties/>
+  <testcase name="codeQuality()" classname="CodeQualityTests" time="0.08"/>
+  <system-out><![CDATA[0 CheckStyle Issues in C:/Users/KenoZzZ/Desktop/school/a2/app/src/main/java/controller/App.java
+0 CheckStyle Issues in C:/Users/KenoZzZ/Desktop/school/a2/app/src/main/java/controller/Controller.java
+0 CheckStyle Issues in C:/Users/KenoZzZ/Desktop/school/a2/app/src/main/java/model/Contract.java
+0 CheckStyle Issues in C:/Users/KenoZzZ/Desktop/school/a2/app/src/main/java/model/ContractList.java
+0 CheckStyle Issues in C:/Users/KenoZzZ/Desktop/school/a2/app/src/main/java/model/Item.java
+0 CheckStyle Issues in C:/Users/KenoZzZ/Desktop/school/a2/app/src/main/java/model/Member.java
+0 CheckStyle Issues in C:/Users/KenoZzZ/Desktop/school/a2/app/src/main/java/model/MemberList.java
+0 CheckStyle Issues in C:/Users/KenoZzZ/Desktop/school/a2/app/src/main/java/model/Persistence.java
+0 CheckStyle Issues in C:/Users/KenoZzZ/Desktop/school/a2/app/src/main/java/view/View.java
+0 FindBugs Issues in model/Contract.java
+0 FindBugs Issues in controller/App.java
+0 FindBugs Issues in view/View.java
+0 FindBugs Issues in model/ContractList.java
+0 FindBugs Issues in model/Persistence.java
+0 FindBugs Issues in model/Item.java
+0 FindBugs Issues in controller/Controller.java
+0 FindBugs Issues in model/MemberList.java
+0 FindBugs Issues in model/Member.java
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

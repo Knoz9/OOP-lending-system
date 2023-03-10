@@ -1,0 +1,10 @@
+C:\Users\KenoZzZ\Desktop\school\a2\app\build\classes\java\main\controller\App.class
+C:\Users\KenoZzZ\Desktop\school\a2\app\build\classes\java\main\controller\Controller.class
+C:\Users\KenoZzZ\Desktop\school\a2\app\build\classes\java\main\model\Contract.class
+C:\Users\KenoZzZ\Desktop\school\a2\app\build\classes\java\main\model\ContractList.class
+C:\Users\KenoZzZ\Desktop\school\a2\app\build\classes\java\main\model\Item.class
+C:\Users\KenoZzZ\Desktop\school\a2\app\build\classes\java\main\model\Member.class
+C:\Users\KenoZzZ\Desktop\school\a2\app\build\classes\java\main\model\MemberList.class
+C:\Users\KenoZzZ\Desktop\school\a2\app\build\classes\java\main\model\Persistence.class
+C:\Users\KenoZzZ\Desktop\school\a2\app\build\classes\java\main\view\View$Action.class
+C:\Users\KenoZzZ\Desktop\school\a2\app\build\classes\java\main\view\View.class
